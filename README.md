@@ -1,1 +1,2 @@
 # create blogs
+# write blogs 
